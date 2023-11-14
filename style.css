@@ -1,7 +1,7 @@
 .container{
     margin-bottom: 100px;
 }
-#carouselExample{
+.carousel{
     background-color: #fceae8 ;
     border-radius: 10px;   
 }
@@ -39,4 +39,15 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none !important;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
 }
